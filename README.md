@@ -1,6 +1,6 @@
 # TXON_03
 
-TXON Machine Learning internship tast 03 - Face Recognition Based Attendance System
+TXON Machine Learning internship task 03 - Face Recognition Based Attendance System
 
 Face Recognition is a broad challenge of verifying or identifying people in pictures or video.
 
